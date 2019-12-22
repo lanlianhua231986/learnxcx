@@ -1,0 +1,5 @@
+<!--pages/home/home.wxml-->
+<view>
+  <text class="helloTxt">hello world</text>
+</view>
+<button>按钮</button>

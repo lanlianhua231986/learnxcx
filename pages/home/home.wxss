@@ -1,0 +1,19 @@
+/* pages/home/home.wxss */
+view{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+.helloTxt{
+  color:red;
+  line-height:50px;
+  text-align:center;
+}
+button{
+  width:30%;
+  display: block;
+  border:none;
+  background: orange;
+  color:#fff;
+  border-radius: none;
+}
